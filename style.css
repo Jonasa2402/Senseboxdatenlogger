@@ -1,0 +1,36 @@
+body {
+    color:orange; 
+    background-color: #FFFFFF;  
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 100%;
+}	
+table {
+    margin: auto;
+    border-spacing: 6rem 0.5rem;
+    font-size:2rem;
+    text-align: left;
+	font-family: calibri;
+}
+th {
+
+}
+img {
+    height: 24%; 
+    width: 24%; 
+    margin-left: auto;
+	float: right;
+}
+
+h1 {
+	font-size: 3rem;
+	font-family: calibri;
+    text-align: center;
+}
+
+p {
+    font-size: 2rem;
+	font-family: calibri;
+    text-align: center;
+}
