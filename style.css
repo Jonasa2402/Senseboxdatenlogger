@@ -1,6 +1,7 @@
 body {
 	background-image: url('https://raw.githubusercontent.com/Jonasa2402/Senseboxdatenlogger/main/Jens_Bunge.jpg');
-	background-reperat: no-repeat;
+	background-reperat:no-repeat;
+	background-size: cover;
     color:black; 
     background-color: #FFFFFF;  
     display: block; 
