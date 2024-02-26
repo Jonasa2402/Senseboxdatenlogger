@@ -1,4 +1,7 @@
 body {
+	background-image: url();
+	background-reperat: no-repeat;
+		background-size: cover;
     color:orange; 
     background-color: #FFFFFF;  
     display: block; 
